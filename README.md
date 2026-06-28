@@ -1,104 +1,111 @@
-<h1 align="center">Hi 👋, I'm Attaul Muqeet</h1>
-<h3 align="center">Senior Full Stack Developer | Laravel | WordPress | API Integrations</h3>
+# Hi there 👋 I'm Attaul Muqeet
 
-<p align="center">
-📍 Multan, Pakistan &nbsp; | &nbsp; 💼 5+ Years Experience  
-</p>
+### Senior Full Stack Developer | Laravel Expert | AI Automation Enthusiast
 
-<p align="center">
-<a href="https://linkedin.com/in/attaulmuqeet">🔗 LinkedIn</a> •
-<a href="https://github.com/attaulmuqeet">💻 GitHub</a> •
-<a href="mailto:attaulmuqeet139@gmail.com">📧 Email</a>
-</p>
+I’m a passionate Full Stack Developer with 5+ years of experience building scalable web applications, SaaS platforms, AI-powered systems, telecom solutions, and eCommerce applications.
+
+I specialize in creating fast, secure, and user-focused digital products using Laravel and modern web technologies.
 
 ---
 
 ## 🚀 About Me
 
-💡 Results-driven **Senior Full Stack Developer** with 5+ years of experience building scalable web applications.  
-⚡ Specialized in **Laravel, WordPress, and third-party integrations** (payments, telecom, APIs).  
-🎯 Focused on performance, clean architecture, and delivering business-driven solutions.  
+* 🔭 Currently working as a **Senior Full Stack Developer at Yoovic (UAE)**
+* 🌱 Exploring **AI Automation, AI Assistants, Ollama Integration & Vue.js**
+* 💡 Passionate about solving real business problems through technology
+* ⚡ Focused on performance optimization, scalability, and clean architecture
+* 🌍 Worked with clients and companies from **UK, UAE, Saudi Arabia & Pakistan**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-**Backend:**  
-`PHP (Laravel, CodeIgniter)` `MySQL` `REST APIs`
+### Backend
 
-**Frontend:**  
-`HTML5` `CSS3` `Bootstrap` `JavaScript` `jQuery`  
+* PHP
+* Laravel
+* CodeIgniter
+* RESTful APIs
+* MySQL
 
-**CMS & Platforms:**  
-`WordPress` `Shopify` `Wix`  
+### Frontend
 
-**Tools & DevOps:**  
-`Git` `Bitbucket` `cPanel` `AWS S3` `SMTP/IMAP`
+* HTML5
+* CSS3
+* Bootstrap
+* JavaScript
+* jQuery
+* AJAX
+* Vue.js
 
----
+### AI & Automation
 
-## 💼 Experience
+* AI Assistants
+* AI Chat Systems
+* Ollama Integration
+* Workflow Automation
 
-### 🧩 Senior Full Stack Developer — Yoovic (UAE)  
-📅 Nov 2024 – Present  
+### Tools & Platforms
 
-- Developing features for a marketplace platform like Amazon/eBay  
-- Fixing bugs to ensure stability and smooth transactions  
-- Optimizing Laravel backend for performance and scalability  
-- Improving UX with clean and maintainable code  
-
----
-
-### 🌐 Senior Full Stack Developer — CodeDesk (UK)  
-📅 Apr 2022 – Oct 2024  
-
-- Worked on telecom product **Neon Soft**  
-- Integrated VoIP systems and telecom APIs  
-- Improved system performance and usability  
-- Delivered scalable solutions with cross-functional teams  
-
----
-
-### 🛒 Senior Full Stack Developer — KK Tech Partner  
-📅 Aug 2021 – Mar 2022  
-
-- Led Laravel development for eCommerce/dropshipping platform  
-- Managed team as **Team Lead**  
-- Built scalable backend systems and APIs  
+* Git & Bitbucket
+* AWS S3
+* cPanel
+* FTP
+* Office365
+* Shopify
+* WordPress
 
 ---
 
-## 🔗 Key Projects
+## 💼 Professional Experience
 
-- 🛍️ E-commerce & Dropshipping Platform (Saudi Arabia)  
-- 🏢 Real Estate Platform (Oman)    
-- 📱 Mobile Comparison Platform  
+### Senior Full Stack Developer — Yoovic (UAE)
 
----
+Building and optimizing a large-scale marketplace platform similar to Amazon/eBay using Laravel.
 
-## ⚡ Integrations Expertise
+### Senior Full Stack Developer — CodeDesk (UK)
 
-💳 Payment Gateways: Stripe, PayPal, JazzCash, EasyPaisa  
-📊 Accounting: QuickBooks, Xero  
-📡 Telecom: Asterisk, FreePBX, VoIP, Telnyx  
+Worked on telecom software solutions including API integrations and VoIP systems.
 
----
+### Team Lead & Senior Laravel Developer — KK Tech Partner
 
-## 📈 What I Bring
-
-✔ Clean, scalable, and maintainable code  
-✔ Strong problem-solving & debugging skills  
-✔ Performance optimization mindset  
-✔ Real-world experience with complex integrations  
+Led Laravel development for a Saudi Arabian eCommerce & dropshipping platform.
 
 ---
 
-## 📫 Let's Connect
+## 📌 What I Build
 
-💼 Open for **Remote Opportunities & Freelance Projects**
+✅ SaaS Applications
+✅ AI-Powered Systems
+✅ eCommerce Platforms
+✅ Custom Business Solutions
+✅ API Integrations
+✅ Marketplace Platforms
+✅ CRM & Admin Panels
+✅ Scalable Laravel Applications
 
-👉 **Let’s build something amazing together!**
+---
 
-<p align="center">
-<a href="mailto:attaulmuqeet139@gmail.com"><b>📧 Hire Me</b></a>
-</p>
+## 🎯 Development Philosophy
+
+I believe great software is not just about writing code.
+
+It’s about:
+
+* Solving problems
+* Creating smooth user experiences
+* Building scalable systems
+* Writing clean & maintainable architecture
+* Delivering real business value
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/attaulmuqeet/
+* 📧 Email: [attaulmuqeet.dev@gmail.com](mailto:attaulmuqeet.dev@gmail.com)
+* 🌍 Location: Multan, Pakistan
+
+---
+
+⭐ Always open to collaboration, freelance projects, and innovative ideas.
